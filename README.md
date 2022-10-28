@@ -69,14 +69,14 @@ List items
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
+***
+
 |colOne | colTwo | colThree|
 |-------|:------:|--------:|
-|10     |      12|    13     |
-|14      |      15 |   16    |
+|10     |      12|    13   |
+|14     |      15|   16    |
 
 
-
-***
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
