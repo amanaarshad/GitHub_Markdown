@@ -63,11 +63,8 @@ List items
 
 # Add Image
 
-![alt text](https://www.google.com/)
-
-***
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![IMAGE](https://myoctocat.com/assets/images/base-octocat.svg)
+[Google](https://google.com)
 
 ***
 
