@@ -15,3 +15,13 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ***
 
 [Amana's GitHub](https://github.com/amanaarshad)
+
+***
+
+```
+public static void main(String [] args) {
+...
+}
+```
+
+***
