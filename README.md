@@ -127,4 +127,4 @@ alert(s);
 
 # Useful Links
 
-[Markdown Chect Sheet] (https://www.markdownguide.org/cheat-sheet/)
+[Markdown Chect Sheet](https://www.markdownguide.org/cheat-sheet/)
