@@ -56,10 +56,8 @@ public static void main(String [] args) {
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
-***image
-Inline-style: 
-
-![alt text](https://www.pinterest.com/pin/856035841650406614/)
+***
+![alt text](https://www.google.com/)
 
 
       
