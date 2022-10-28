@@ -38,25 +38,10 @@ public static void main(String [] args) {
 # Itemized Items
 
 ```
-List items
-0. Hello
-1. list item- one
-2. list item -two
-3. list item-three
-4. list item-four
-5. list item-five
-6. list item-six
-..* Unordered sub-list
-      x
-      b
-      c
- ..6.ordered sub-list
-      6
-      4
-      5
- 1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+
+   Hello1
+   Hello2
+   Hello3
 ```
 
 ***
@@ -84,7 +69,7 @@ Hello how are you ```java```
 
 
 | Tables        | Are           | Cool  |
-| ---           |:---:          | --:|
+| ---           |:---:          | ---:  |
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
