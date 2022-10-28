@@ -80,3 +80,11 @@ public static void main(String [] args) {
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+***
+
+```python
+s = "Python syntax highlighting"
+print s
+
+***
