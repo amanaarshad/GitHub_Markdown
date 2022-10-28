@@ -69,7 +69,7 @@ List items
 
 ***
 
-Hello how are you `java` 
+Hello how are you ```java``` 
 
 Markdown |   Less    | Pretty
 ---      |    ---    | ---
