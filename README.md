@@ -69,8 +69,14 @@ List items
 
 ***
 
+Markdown |   Less    | Pretty
+---      |    ---    | ---
+*Still*  | `renders` | **nicely**
+   1     |   2       | 3
+
+
 |colOne | colTwo | colThree|
-|------:|-------:|--------:|
+|---    |---     |---      |
 |10     |      12|    13   |
 |14     |      15|    16   |
 
