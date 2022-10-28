@@ -32,11 +32,11 @@ public static void main(String [] args) {
 4. list item-four
 5. list item-five
 6. list item-six
-⋅⋅* Unordered sub-list
-      a
+* Unordered sub-list
+      x
       b
       c
- ..1.*ordered sub-list
+ ..6.*ordered sub-list
       6
       4
       5
