@@ -37,7 +37,6 @@ public static void main(String [] args) {
 
 # Itemized Items
 
-```
 - Hello1
 - Hello2
 - Hello3
@@ -45,7 +44,6 @@ public static void main(String [] args) {
 * Hello1
 * Hello2
 * Hello3
-```
 
 ***
 
