@@ -37,17 +37,15 @@ public static void main(String [] args) {
 
 # Itemized Items
 
-- Hello1
-- Hello2
-- Hello3
-
 * Hello1
 * Hello2
 * Hello3
 
-+ Hello1
-+ Hello2
-+ Hello3
+1 Hello1
+2 Hello2
+3 Hello3
+
+
 
 ***
 
