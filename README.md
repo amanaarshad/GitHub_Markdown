@@ -63,7 +63,7 @@ List items
 
 # Add Image
 
-[IMAGE](https://myoctocat.com/assets/images/base-octocat.svg)
+![IMAGE](https://myoctocat.com/assets/images/base-octocat.svg)
 
 [Google](https://google.com)
 
