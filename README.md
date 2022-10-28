@@ -25,3 +25,15 @@ public static void main(String [] args) {
 ```
 
 ***
+```List items
+1. list item- one
+2. list item -two
+3. list item-three
+4. list item-four
+5. list item-five
+6. list item-six
+
+   ⋅⋅* Unordered sub-list
+      a
+      b
+      c
