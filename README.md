@@ -91,13 +91,7 @@ print s
 ```Python
 mytuple = ("apple", "pineapple, "cherry", "Pomegranate")
 myit = iter(mytuple)
-s1= "nextit"
+s1= "myit"
 print(s1)
-s2= "nextit"
-print(s2)
-s3="nextit"
-print(s3)
-s4="nextit"
-print(s4)
 
 ***
