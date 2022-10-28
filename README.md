@@ -115,4 +115,16 @@ print("Hello")
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
+```***
+
+```java
+   public static void main(String [] args) {
+      ...
+   }
 ```
+
+***
+
+# Useful Links
+
+[Markdown Chect Sheet] (https://www.markdownguide.org/cheat-sheet/)
