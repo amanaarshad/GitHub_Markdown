@@ -12,7 +12,13 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-***
+
+*I am italic text* 
+_I am text as italic_
+**I am Bold italic text**
+_I am Bold italic text**
+** Italic text combination alongwith the _Bold text_**
+~~ scracth this. ~~
 
 [Amana's GitHub](https://github.com/amanaarshad)
 
