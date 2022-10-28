@@ -8,12 +8,16 @@
 
 # Bold, Italics, & Underscrore
 
-*I am italic text* 
+*I am italic text*
+
 **I am bold text*
+
 **_I am bold and italic_**
+
 ~~I m strike through text~~
 
 ***
+
 # Quote
 
 > "Life shrinks or exapands in proportion to ones courage."
@@ -28,14 +32,16 @@ The squre of variable ```x``` is x<sup>2</sup>.
 
 ***
 
+# Web-Link
+
 [Amana's GitHub](https://github.com/amanaarshad)
 
 ***
 
 ```java
-public static void main(String [] args) {
-...
-}
+   public static void main(String [] args) {
+      ...
+   }
 ```
 
 ***
@@ -53,6 +59,7 @@ public static void main(String [] args) {
 1. level
    - sublevel1
      - sublevel2
+     
 ***
 
 # Add Image
