@@ -2,6 +2,7 @@
 ## H2: Second Level Heading
 ### H3: Third Level Heading
 #### H4: Fourth Level Heading
+
 ***
 
 Emphasis, aka italics, with *asterisks* OR _underscores_.
@@ -12,16 +13,13 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-
 *I am italic text* 
 
 _I am text as italic_
 
-**I am Bold italic text**
+**_I am Bold italic text_**
 
-_I am Bold italic text_
-
-** Italic text combination alongwith the _Bold text_**
+**Italic text combination alongwith the _Bold text_**
 
 ~~scracth this.~~
 ***
@@ -34,10 +32,14 @@ public static void main(String [] args) {
 ...
 }
 ```
-***
 
 ***
-```List items
+
+# Itemized Items
+
+```
+List items
+0. Hello
 1. list item- one
 2. list item -two
 3. list item-three
@@ -55,9 +57,14 @@ public static void main(String [] args) {
  1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
 4. And another item.
+```
 
 ***
+
+# Add Image
+
 ![alt text](https://www.google.com/)
+
 ***
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
