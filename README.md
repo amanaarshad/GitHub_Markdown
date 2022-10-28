@@ -60,6 +60,8 @@ public static void main(String [] args) {
 ![alt text](https://www.google.com/)
 ***
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 |colOne | colTwo | colThree|
 |-------|:------:|--------:|
 |10     |      12|    13     |
