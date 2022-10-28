@@ -57,6 +57,6 @@ public static void main(String [] args) {
 4. And another item.
 
 ***image
-![alt text] (https://github.com/amanaarshad/GitHub_Markdown-here)
-      
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  
       
