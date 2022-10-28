@@ -63,7 +63,7 @@ List items
 
 # Add Image
 
-![IMAGE](https://myoctocat.com/assets/images/base-octocat.svg)
+[IMAGE](https://myoctocat.com/assets/images/base-octocat.svg)
 
 [Google](https://google.com)
 
@@ -73,7 +73,6 @@ List items
 |-------|:------:|--------:|
 |10     |      12|    13   |
 |14     |      15|   16    |
-
 
 
 | Tables        | Are           | Cool  |
