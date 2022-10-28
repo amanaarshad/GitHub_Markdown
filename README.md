@@ -29,6 +29,15 @@ _I am text as italic_
 > "Life shrinks or exapands in proportion to ones courage."
 
 ***
+
+# Subscript & SupreScript
+
+The formula for water is H<sub>2</sub>o.
+
+The squre of variable ```x``` is x<sup>2</sup>.
+
+***
+
 [Amana's GitHub](https://github.com/amanaarshad)
 
 ***
