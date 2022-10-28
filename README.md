@@ -97,3 +97,10 @@ print(s1)
 ***
 ```python
 print("Hello")
+
+
+
+***
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
