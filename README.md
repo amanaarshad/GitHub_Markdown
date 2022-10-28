@@ -61,6 +61,6 @@ public static void main(String [] args) {
 ***
 
 |colOne | colTwo | colThree|
-
-|1      |      2|:    3   : |
-|4      |      5 |:      6 :|
+     ---:    ---:      ---:|
+|1      |      2|    3     |
+|4      |      5 |    6    |
