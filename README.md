@@ -78,7 +78,7 @@ Markdown |   Less    | Pretty
 
 
 |colOne | colTwo | colThree|
-|---    |---     |---      |
+|:---:  |:---:   |:---:    |
 |10     |      12|    13   |
 |14     |      15|    16   |
 
