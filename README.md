@@ -22,6 +22,12 @@ _I am text as italic_
 **Italic text combination alongwith the _Bold text_**
 
 ~~scracth this.~~
+
+***
+# Quote
+
+> "Life shrinks or exapands in proportion to ones courage."
+
 ***
 [Amana's GitHub](https://github.com/amanaarshad)
 
