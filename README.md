@@ -71,10 +71,10 @@ List items
 
 Hello how are you ```java``` 
 
-Markdown |   Less    | Pretty
----      |    ---    | ---
-*Still*  | `renders` | **nicely**
-   1     |   2       | 3
+|Markdown |   Less    | Pretty |
+|:---:    |    :---:  | :---:  |
+|*Still*  | `renders` | **nicely**|
+|   1     |   2       | 3         |
 
 
 |colOne | colTwo | colThree|
