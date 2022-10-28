@@ -58,5 +58,8 @@ public static void main(String [] args) {
 
 ***image
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  
+
+![alt text](https://www.pinterest.com/pin/856035841650406614/)
+
+
       
