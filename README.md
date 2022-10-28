@@ -88,25 +88,26 @@ public static void main(String [] args) {
 ```python
 s = "Python syntax highlighting"
 print s
-
+```
 
 ```Python
 mytuple = ("apple", "pineapple, "cherry", "Pomegranate")
 myit = iter(mytuple)
 s1= "myit"
 print(s1)
+```
 
 ***
+
 ```python
 print("Hello")
-
-
-
+```
 ***
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
-
+```
 
 ***
 ![This is an image](https://www.google.com.pk/search?q=SEASHELL&tbm=isch&ved=2ahUKEwjPt6u2uIL7AhUOmRoKHVKZARsQ2-cCegQIABAA&oq=SEASHELL&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgoIABCxAxCDARBDOggIABCABBCxAzoLCAAQgAQQsQMQgwE6BwgAEIAEEANQ3wZYg_oBYNf8AWgAcAB4AYAB6QOIAZYckgEHMi01LjQuMpgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=BYpbY4-hII6yatKyhtgB&bih=671&biw=1156&hl=en)
