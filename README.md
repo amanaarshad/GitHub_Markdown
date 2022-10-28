@@ -41,11 +41,9 @@ public static void main(String [] args) {
 * Hello2
 * Hello3
 
-1 Hello1
-
-2 Hello2
-
-3 Hello3
+1. Hello1
+2. Hello2
+3. Hello3
 
 ***
 
