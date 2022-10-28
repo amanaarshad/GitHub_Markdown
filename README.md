@@ -58,6 +58,9 @@ public static void main(String [] args) {
 
 ***
 ![alt text](https://www.google.com/)
+***
 
+|colOne | colTwo | colThree|
 
-      
+|1      |      2|:    3   : |
+|4      |      5 |:      6 :|
