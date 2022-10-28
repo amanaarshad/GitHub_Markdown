@@ -18,7 +18,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ***
 
-```
+```java
 public static void main(String [] args) {
 ...
 }
