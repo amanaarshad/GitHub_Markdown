@@ -1,28 +1,17 @@
 # Headigs
 
-# H1: First Level Heading
-## H2: Second Level Heading
-### H3: Third Level Heading
+# H1
+## H2
+### H3
 
 ***
 
-Emphasis, aka italics, with *asterisks* OR _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** OR __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+# Bold, Italics, & Underscrore
 
 *I am italic text* 
-
-_I am text as italic_
-
-**_I am Bold italic text_**
-
-**Italic text combination alongwith the _Bold text_**
-
-~~scracth this.~~
+**I am bold text*
+**_I am bold and italic_**
+~~I m strike through text~~
 
 ***
 # Quote
