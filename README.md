@@ -13,3 +13,5 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 ***
+
+[Amana's GitHub](https://github.com/amanaarshad)
