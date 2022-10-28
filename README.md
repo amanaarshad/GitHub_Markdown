@@ -58,8 +58,6 @@ The squre of variable ```x``` is x<sup>2</sup>.
 
 ![IMAGE](https://myoctocat.com/assets/images/base-octocat.svg)
 
-[Google](https://google.com)
-
 ***
 
 # Tables
