@@ -90,6 +90,8 @@ s = "Python syntax highlighting"
 print s
 ```
 
+***
+
 ```Python
 mytuple = ("apple", "pineapple, "cherry", "Pomegranate")
 myit = iter(mytuple)
