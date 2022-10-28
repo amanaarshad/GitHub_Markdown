@@ -36,7 +36,7 @@ public static void main(String [] args) {
       a
       b
       c
- 7..1*ordered sub-list
+ ..1*ordered sub-list
       6
       4
       5
